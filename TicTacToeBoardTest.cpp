@@ -22,5 +22,5 @@ TEST(TicTacToeBoardTest, sanityCheck)
 
 TEST(TicTacToeBoardTest, sanityCheck2)
 {
-	ASSERT_False(false);
+	ASSERT_FALSE(false);
 }
